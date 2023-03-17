@@ -7,7 +7,7 @@
 # @raycast.author Mujib Azizi
 # @raycast.authorURL https://github.com/mujibazizi
 # @raycast.description Start a Google Meet session
-# @raycast.icon 🎥
+# @raycast.icon images/googlemeet.png
 
 open -a "Google Chrome" https://meet.google.com/new
 
